@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="687.43848"
+   height="242.22389"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="down-tube-plate.svg">
+  <title
+     id="title2876">ORGS Down Tube Plate</title>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+    <inkscape:perspective
+       id="perspective3705"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+    <inkscape:perspective
+       id="perspective3835"
+       inkscape:persp3d-origin="0.5 : 0.33333333 : 1"
+       inkscape:vp_z="1 : 0.5 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_x="0 : 0.5 : 1"
+       sodipodi:type="inkscape:persp3d" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.51247288"
+     inkscape:cx="243.2432"
+     inkscape:cy="174.19091"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="780"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ORGS Down Tube Plate</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>x3300@gmail.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://stuff.gotdns.org/bike/orgs-build-up/fabricators-design-license.txt" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright x3300</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Weld-on head tube to down tube plate for BMW Airhead frame.
+.125 inch (3mm) steel plate.
+2 required.
+Fabricators Design License
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(1.1395289,-810.80594)">
+    <path
+       id="path2886"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+       d="m 549.53125,810.59375 -0.4375,0.375 -25.4375,23 -0.15625,0.15625 -0.0312,0.21875 c -3.59427,23.60811 -11.36145,41.20214 -33.03125,58.71875 -21.6698,17.51661 -57.32245,34.88727 -116.5,57.75 C 255.65525,996.50981 77.502784,1039.6854 -0.5,1051.75 c -0.0263803,0 -0.0673927,0 -0.09375,0 l 0.09375,1.2812 0.09375,0 657.8125,0 2.03125,0 -1.6875,-1.1562 c -34.16753,-23.8804 -44.04372,-57.51069 -39.5625,-81.03125 2.23333,-11.72211 10.25669,-26.60487 22.15625,-38.34375 11.89956,-11.73888 27.6258,-20.33589 45.28125,-19.78125 l 1.5,0.0625 -1,-1.125 -63.4375,-70.53125 -0.25,-0.28125 -0.375,0.0937 -31.78125,6.9375 -40.34375,-36.90625 -0.40625,-0.375 z m -0.0312,1.6875 40.15625,36.75 0.25,0.21875 0.3125,-0.0625 31.75,-6.90625 62.3125,69.1875 c -17.51291,-0.0776 -33.05159,8.5229 -44.8125,20.125 -12.07828,11.91519 -20.2301,26.92196 -22.53125,39 -4.51654,23.70591 5.30717,57.09455 38.5625,81.15625 l -648.625,0 C 88.038928,1038.3887 259.13456,996.53422 374.4063,952 c 59.21979,-22.87904 94.93197,-40.25054 116.8125,-57.9375 21.80237,-17.62378 29.82886,-35.61939 33.46875,-59.28125 l 24.8125,-22.5 z" />
+  </g>
+</svg>

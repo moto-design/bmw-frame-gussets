@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 125.02 425.7"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="100%"
+   height="100%"
+   sodipodi:docname="main-tube-top.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="741"
+     inkscape:window-height="599"
+     id="namedview3221"
+     showgrid="false"
+     inkscape:zoom="0.89209468"
+     inkscape:cx="62.51"
+     inkscape:cy="212.85"
+     inkscape:window-x="324"
+     inkscape:window-y="118"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title3642">ORGS Top Main Tube Plate</title>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 212.85 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="125.02 : 212.85 : 1"
+       inkscape:persp3d-origin="62.51 : 141.9 : 1"
+       id="perspective3223" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ORGS Top Main Tube Plate</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>x3300@gmail.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright x3300</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Weld-on top plate for main tube to down tube gusset for BMW Airhead frame.
+.125 inch (3mm) steel plate.
+1 required.
+Fabricators Design License</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(0.5,-627.16535)">
+    <path
+       id="path3935"
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+       d="m 52.21875,627.1875 -0.0625,0.4375 -52.65625,424.7188 -0.0625,0.5624 0.5625,0 14.1875,0 0.46875,0 0.03125,-0.4687 c 2.053141,-29.1492 8.720866,-50.9961 17.625,-65.53125 8.904134,-14.53512 19.99473,-21.72917 30.90625,-21.75 10.91152,-0.0208 21.777819,7.10436 30.28125,21.625 8.50343,14.52065 14.59103,36.39095 15.84375,65.62495 l 0.0312,0.5 0.46875,0 14.1875,0 0.5625,0 -0.0937,-0.5624 -53.625,-424.7188 -0.0625,-0.4375 -0.4375,0 -17.71875,0 -0.4375,0 z m 0.875,1 16.84375,0 53.53125,423.7187 -13.15625,0 c -1.30514,-29.1018 -7.36695,-50.9897 -15.9375,-65.62495 -8.619434,-14.71873 -19.806758,-22.14667 -31.15625,-22.125 -11.349492,0.0217 -22.729243,7.49325 -31.75,22.21875 -8.96932,14.6415 -15.616575,36.5147 -17.71875,65.5312 l -13.1875,0 52.53125,-423.7187 z" />
+  </g>
+</svg>

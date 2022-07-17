@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   id="svg2"
+   viewBox="0 0 606.53 241.5"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   width="100%"
+   height="100%"
+   sodipodi:docname="main-tube-left.svg">
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="920"
+     inkscape:window-height="560"
+     id="namedview3025"
+     showgrid="false"
+     inkscape:zoom="1.1283427"
+     inkscape:cx="303.265"
+     inkscape:cy="120.75"
+     inkscape:window-x="269"
+     inkscape:window-y="139"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <title
+     id="title3642">ORGS Left Main Tube Gusset</title>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 120.75 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="606.53 : 120.75 : 1"
+       inkscape:persp3d-origin="303.265 : 80.5 : 1"
+       id="perspective3027" />
+  </defs>
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ORGS Left Main Tube Gusset</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>x3300@gmail.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="http://stuff.gotdns.org/bike/orgs-build-up/fabricators-design-license.txt" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright x3300</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Left weld-on main tube to down tube gusset for BMW Airhead frame.  Right gusset is mirror image of left gusset.
+3.25 x .125 inch (80 x 3mm) steel rectangle tube.
+1 required.
+Fabricators Design License</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     transform="translate(1,-811.86094)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+       d="m 558.84375,811.65625 -0.34375,0.4375 c -60.82845,85.43226 -164.58264,112.78843 -271.21875,135.125 -106.63611,22.33657 -216.105764,39.64186 -288.125,105.31245 l -0.53125,0.5 0.65625,0.3126 0.09375,0.062 0.125,0 531.5,0 0.34375,0 0.125,-0.3437 74.03125,-200.53125 0.125,-0.3125 -0.25,-0.25 -46.125,-39.9375 -0.40625,-0.375 z M 559,813.125 l 45.4375,39.375 -73.78125,199.9062 -529.8125,0 C 72.567657,987.74182 181.31194,970.43022 287.5,948.1875 393.97875,925.88389 497.87442,898.55214 559,813.125 z"
+       id="path3711" />
+  </g>
+</svg>

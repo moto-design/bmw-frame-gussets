@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="319.89764"
+   height="195.88191"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.47 r22583"
+   sodipodi:docname="sub-tube-left-gusset.svg">
+  <title
+     id="title3642">ORGS Left Sub Tube Gusset</title>
+  <defs
+     id="defs4">
+    <inkscape:perspective
+       sodipodi:type="inkscape:persp3d"
+       inkscape:vp_x="0 : 526.18109 : 1"
+       inkscape:vp_y="0 : 1000 : 0"
+       inkscape:vp_z="744.09448 : 526.18109 : 1"
+       inkscape:persp3d-origin="372.04724 : 350.78739 : 1"
+       id="perspective10" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.7592897"
+     inkscape:cx="47.961014"
+     inkscape:cy="54.529417"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1280"
+     inkscape:window-height="780"
+     inkscape:window-x="-4"
+     inkscape:window-y="-3"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true"
+     units="mm"
+     inkscape:showpageshadow="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>ORGS Left Sub Tube Gusset</dc:title>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>x3300@gmail.com</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <cc:license
+           rdf:resource="" />
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright x3300</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:description>Left weld-on main tube to sub tube gusset for BMW Airhead frame.
+.125 inch (3mm) steel plate.
+1 required.
+Fabricators Design License
+</dc:description>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0.5,-856.98029)">
+    <path
+       style="font-size:medium;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-indent:0;text-align:start;text-decoration:none;line-height:normal;letter-spacing:normal;word-spacing:normal;text-transform:none;direction:ltr;block-progression:tb;writing-mode:lr-tb;text-anchor:start;color:#000000;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1;marker:none;visibility:visible;display:inline;overflow:visible;enable-background:accumulate;font-family:Andale Mono;-inkscape-font-specification:Andale Mono"
+       d="M 320.40625,856.84375 C 213.43644,865.74723 106.47007,874.6945 -0.5,883.5937 c 0,47.5521 0,95.1042 0,142.6563 106.9394,8.8807 213.87063,17.8719 320.8125,26.7188 -32.25642,-30.2048 -75.13043,-44.2018 -111.79218,-67.7119 -15.93442,-10.55441 -23.07836,-33.60663 -11.77979,-50.05209 13.8478,-20.76457 38.03989,-30.83271 59.53723,-41.69851 22.19654,-10.60243 45.3577,-20.36562 64.12849,-36.66255 z m -3.1875,1.28125 c -34.6539,28.38902 -81.97354,36.48578 -114.56811,67.75712 -13.12315,12.55509 -17.13141,34.44934 -5.44573,49.31468 12.11896,15.84876 31.90924,22.45159 48.68835,32.0756 24.98988,12.7648 50.43315,25.5994 71.48174,44.4776 -105.625,-8.8125 -211.25,-17.625 -316.875,-26.4375 0,-46.92708 0,-93.85417 0,-140.78125 105.57292,-8.80208 211.14583,-17.60417 316.71875,-26.40625 z"
+       id="path3644" />
+  </g>
+</svg>
